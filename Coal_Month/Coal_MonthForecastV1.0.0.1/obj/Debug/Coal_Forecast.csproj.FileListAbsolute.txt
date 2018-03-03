@@ -1,0 +1,74 @@
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\austest.xml
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_Forecast.XtraForm_County.resources
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\Coal_Forecast.XtraForm_County.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast 1.1\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecast\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.0\bin\Debug\austest.xml
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\bin\Debug\austest.xml
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.1\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\office.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.Properties.Resources.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraForm_Blending.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraForm_Month.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraForm_Purchase.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraForm_Year.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraReport_Blending.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraReport_Purchase.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraReport_Year.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.XtraReport_Month.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Debug\Coal_Forecast.pdb

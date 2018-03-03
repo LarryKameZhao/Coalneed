@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FD3489C9-B46E-4C29-A2EF-130C94760798}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Coal_MonthForecast</RootNamespace>
+    <AssemblyName>Coal_MonthForecast</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AuCtlLib, Version=1.0.4773.15188, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\bin\Debug\AuCtlLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Auseft, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\bin\Debug\Auseft.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.BonusSkins.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.Data.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.Utils.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="DevExpress.XtraBars.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraBars.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v8.3.UI, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraCharts.v8.3.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraEditors.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraGrid.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraLayout.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v8.3.Core, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraPrinting.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevExpress.XtraReports.v8.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.3, Version=8.3.4.0, Culture=neutral, PublicKeyToken=5377c8e3b72b4073" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="MWArray, Version=2.9.1.0, Culture=neutral, PublicKeyToken=e1d84a0da19db86f, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MWArray.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet_Forcast.cs">
+      <DependentUpon>DataSet_Forcast.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MonthForecastCtl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MonthForecastCtl.Designer.cs">
+      <DependentUpon>MonthForecastCtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet_Forcast.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Forcast.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GridStyle.cs" />
+    <Compile Include="INI.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm_Month.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm_Month.Designer.cs">
+      <DependentUpon>XtraForm_Month.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XtraReport_Month.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XtraReport_Month.Designer.cs">
+      <DependentUpon>XtraReport_Month.cs</DependentUpon>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MonthForecastCtl.resx">
+      <DependentUpon>MonthForecastCtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraForm_Month.resx">
+      <DependentUpon>XtraForm_Month.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XtraReport_Month.resx">
+      <DependentUpon>XtraReport_Month.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataSet_Forcast.xsc">
+      <DependentUpon>DataSet_Forcast.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Forcast.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Forcast.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet_Forcast.xss">
+      <DependentUpon>DataSet_Forcast.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AcceptProposal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeclineTask.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupFormattingGridlines.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupHeaderFooterClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupInsertBarcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupOutliningClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupPivotChartTools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupPrintPreviewPreview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupPrintPreviewPrint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GroupPrintPreviewZoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeaderFooterClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MicrosoftExcel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveSelectionToCoverPageGallery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SourceControlCheckIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SourceControlCheckOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ViewBackToColorView.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

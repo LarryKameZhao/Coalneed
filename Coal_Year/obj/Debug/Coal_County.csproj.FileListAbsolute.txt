@@ -1,0 +1,10 @@
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_County.CountyCtl.resources
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_County.XtraForm_County.resources
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_County.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_County.dll.config
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_County.dll
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\Coal_County.pdb
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_County.dll
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\obj\Debug\Coal_County.pdb
+G:\项目资料\煤量预测\Code\煤种掺配\CoalMixture\bin\Debug\austest.xml

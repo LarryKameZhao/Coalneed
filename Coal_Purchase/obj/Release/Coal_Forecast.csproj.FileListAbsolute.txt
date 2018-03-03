@@ -1,0 +1,16 @@
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Release\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Release\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Release\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Release\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Release\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\bin\Release\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Release\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.2\obj\Release\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Release\ResolveAssemblyReference.cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Release\Coal_Forecast.ForecastCtl.resources
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Release\Coal_Forecast.csproj.GenerateResource.Cache
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Release\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Release\Coal_Forecast.dll.config
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Release\Coal_Forecast.dll
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\bin\Release\Coal_Forecast.pdb
+G:\项目资料\煤量预测\Code\预测DLL\CoalForecastV1.0.0.3\obj\Release\Coal_Forecast.pdb
